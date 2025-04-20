@@ -1,0 +1,33 @@
+body{
+    background-color: peachpuff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: rgb(69, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul{
+    background-color: burlywood;
+    border-width: 2px;
+    border-color: brown;
+    border-radius: 20px;
+    padding: 10px;
+    border-style: solid;
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
